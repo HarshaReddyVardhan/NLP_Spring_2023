@@ -7,10 +7,11 @@ USD45M
 $25K 
 $4B
 USD1000,2000.59
-Real gross domestic product (GDP) increased at an annual rate of 
-2.9 percent in the fourth quarter of 2022/06/22, after increasing 3.2 percent 
+<p>Real gross domestic product (GDP) increased at an annual rate of </p>
+2.9 percent in the fourth quarter of 2022/06/22, after increasing 3.2 percent 9885147001
 in the third quarter. The increase in the fourth quarter primarily reflected 
 increases in inventory investment USD26B
+<img>Image of home</img>
  and consumer spending that were partly offset by a decrease in housing investment.
 
 Create an input.txt file and copy paste the above 
